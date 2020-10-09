@@ -5,3 +5,11 @@ body,html {
   -o-background-size: cover;
   background-size: cover;
 }
+h1
+{
+	color: red;
+}
+h2
+{
+	color:green;
+}
